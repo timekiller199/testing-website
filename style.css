@@ -1,6 +1,7 @@
-body 
+	body {
+		background-color: dimgray;
 
-
+	}
 	p.blue {
 		font-size: 30px;
 		color: red;
